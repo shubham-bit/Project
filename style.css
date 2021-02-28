@@ -366,7 +366,7 @@ header {
 /* Footer */
 
 .footer {
-    background: #111;
+    background: white;
     color: var(--clr-accent);
     text-align: center;
     padding: 2.5em 0;
@@ -388,7 +388,7 @@ header {
 }
 
 .footer__link:hover{
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .social-list {
